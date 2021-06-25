@@ -1,7 +1,5 @@
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIAY6XVU2C7ITJ2NUOD"
-  secret_key = "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"
 }
 
 variable "vpcnet" {
